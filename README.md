@@ -76,8 +76,8 @@ poly_model.fit(X_train, y_train)
 y_pred_poly = poly_model.predict(X_test)
 
 
-print("Name: S VASUNTHARA SAI")
-print("Reg. No: 212224230297  ")
+print("Name:  DHANAPPRIYA S")
+print("Reg. No: 212224230056  ")
 print("Linear Regression:")
 print("MSE:", mean_squared_error(y_test, y_pred_linear))
 print("R2 Score:", r2_score(y_test, y_pred_linear))
